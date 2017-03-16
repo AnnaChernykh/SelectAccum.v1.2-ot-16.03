@@ -1,0 +1,36 @@
+C:\Users\Админ\documents\visual studio 2015\Projects\Form_1etap\Form_1etap\bin\Debug\Form_1etap.exe.config
+C:\Users\Админ\documents\visual studio 2015\Projects\Form_1etap\Form_1etap\bin\Debug\Form_1etap.exe
+C:\Users\Админ\documents\visual studio 2015\Projects\Form_1etap\Form_1etap\bin\Debug\Form_1etap.pdb
+C:\Users\Админ\documents\visual studio 2015\Projects\Form_1etap\Form_1etap\obj\Debug\Accum-Select.csprojResolveAssemblyReference.cache
+C:\Users\Админ\documents\visual studio 2015\Projects\Form_1etap\Form_1etap\obj\Debug\Accum-Select.csproj.ResolveComReference.cache
+C:\Users\Админ\documents\visual studio 2015\Projects\Form_1etap\Form_1etap\obj\Debug\Form_1etap.Form1.resources
+C:\Users\Админ\documents\visual studio 2015\Projects\Form_1etap\Form_1etap\obj\Debug\Form_1etap.Form2.resources
+C:\Users\Админ\documents\visual studio 2015\Projects\Form_1etap\Form_1etap\obj\Debug\Form_1etap.Form3.resources
+C:\Users\Админ\documents\visual studio 2015\Projects\Form_1etap\Form_1etap\obj\Debug\Form_1etap.Properties.Resources.resources
+C:\Users\Админ\documents\visual studio 2015\Projects\Form_1etap\Form_1etap\obj\Debug\Accum-Select.csproj.GenerateResource.Cache
+C:\Users\Админ\documents\visual studio 2015\Projects\Form_1etap\Form_1etap\obj\Debug\Form_1etap.exe
+C:\Users\Админ\documents\visual studio 2015\Projects\Form_1etap\Form_1etap\obj\Debug\Form_1etap.pdb
+C:\Users\Пользователь\Dropbox\Form_1etap\Form_1etap\bin\Debug\Form_1etap.exe.config
+C:\Users\Пользователь\Dropbox\Form_1etap\Form_1etap\obj\Debug\Accum-Select.csproj.ResolveComReference.cache
+C:\Users\Пользователь\Dropbox\Form_1etap\Form_1etap\obj\Debug\Form_1etap.exe
+C:\Users\Пользователь\Dropbox\Form_1etap\Form_1etap\obj\Debug\Form_1etap.pdb
+C:\Users\Пользователь\Dropbox\Form_1etap\Form_1etap\bin\Debug\Form_1etap.exe
+C:\Users\Пользователь\Dropbox\Form_1etap\Form_1etap\bin\Debug\Form_1etap.pdb
+C:\Users\Пользователь\Dropbox\Form_1etap\Form_1etap\obj\Debug\Accum-Select.csprojResolveAssemblyReference.cache
+C:\Users\Пользователь\Dropbox\Form_1etap\Form_1etap\obj\Debug\Form_1etap.Form1.resources
+C:\Users\Пользователь\Dropbox\Form_1etap\Form_1etap\obj\Debug\Form_1etap.Form2.resources
+C:\Users\Пользователь\Dropbox\Form_1etap\Form_1etap\obj\Debug\Form_1etap.Form3.resources
+C:\Users\Пользователь\Dropbox\Form_1etap\Form_1etap\obj\Debug\Form_1etap.Properties.Resources.resources
+C:\Users\Пользователь\Dropbox\Form_1etap\Form_1etap\obj\Debug\Accum-Select.csproj.GenerateResource.Cache
+C:\Users\Админ\Dropbox\Form_1etap\Form_1etap\bin\Debug\Form_1etap.exe.config
+C:\Users\Админ\Dropbox\Form_1etap\Form_1etap\obj\Debug\Accum-Select.csproj.ResolveComReference.cache
+C:\Users\Админ\Dropbox\Form_1etap\Form_1etap\obj\Debug\Form_1etap.exe
+C:\Users\Админ\Dropbox\Form_1etap\Form_1etap\obj\Debug\Form_1etap.pdb
+C:\Users\Админ\Dropbox\Form_1etap\Form_1etap\bin\Debug\Form_1etap.exe
+C:\Users\Админ\Dropbox\Form_1etap\Form_1etap\bin\Debug\Form_1etap.pdb
+C:\Users\Админ\Dropbox\Form_1etap\Form_1etap\obj\Debug\Accum-Select.csprojResolveAssemblyReference.cache
+C:\Users\Админ\Dropbox\Form_1etap\Form_1etap\obj\Debug\Form_1etap.Form1.resources
+C:\Users\Админ\Dropbox\Form_1etap\Form_1etap\obj\Debug\Form_1etap.Form2.resources
+C:\Users\Админ\Dropbox\Form_1etap\Form_1etap\obj\Debug\Form_1etap.Form3.resources
+C:\Users\Админ\Dropbox\Form_1etap\Form_1etap\obj\Debug\Form_1etap.Properties.Resources.resources
+C:\Users\Админ\Dropbox\Form_1etap\Form_1etap\obj\Debug\Accum-Select.csproj.GenerateResource.Cache

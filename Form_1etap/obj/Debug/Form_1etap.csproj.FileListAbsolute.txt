@@ -1,0 +1,12 @@
+c:\users\админ\documents\visual studio 2015\Projects\Form_1etap\Form_1etap\bin\Debug\Form_1etap.exe.config
+c:\users\админ\documents\visual studio 2015\Projects\Form_1etap\Form_1etap\bin\Debug\Form_1etap.exe
+c:\users\админ\documents\visual studio 2015\Projects\Form_1etap\Form_1etap\bin\Debug\Form_1etap.pdb
+c:\users\админ\documents\visual studio 2015\Projects\Form_1etap\Form_1etap\obj\Debug\Form_1etap.csprojResolveAssemblyReference.cache
+c:\users\админ\documents\visual studio 2015\Projects\Form_1etap\Form_1etap\obj\Debug\Form_1etap.Form1.resources
+c:\users\админ\documents\visual studio 2015\Projects\Form_1etap\Form_1etap\obj\Debug\Form_1etap.Properties.Resources.resources
+c:\users\админ\documents\visual studio 2015\Projects\Form_1etap\Form_1etap\obj\Debug\Form_1etap.csproj.GenerateResource.Cache
+c:\users\админ\documents\visual studio 2015\Projects\Form_1etap\Form_1etap\obj\Debug\Form_1etap.exe
+c:\users\админ\documents\visual studio 2015\Projects\Form_1etap\Form_1etap\obj\Debug\Form_1etap.pdb
+C:\Users\Админ\Documents\Visual Studio 2015\Projects\Form_1etap\Form_1etap\obj\Debug\Form_1etap.csproj.ResolveComReference.cache
+C:\Users\Админ\Documents\Visual Studio 2015\Projects\Form_1etap\Form_1etap\obj\Debug\Form_1etap.Form2.resources
+C:\Users\Админ\documents\visual studio 2015\Projects\Form_1etap\Form_1etap\obj\Debug\Form_1etap.Form3.resources

@@ -1,0 +1,8 @@
+C:\Users\Админ\Dropbox\SelectAccum.v1.1\Form_1etap\bin\Debug\Form_1etap.exe.config
+C:\Users\Админ\Dropbox\SelectAccum.v1.1\Form_1etap\obj\Debug\SelectAccum.v1.1.csproj.ResolveComReference.cache
+C:\Users\Админ\Dropbox\SelectAccum.v1.1\Form_1etap\obj\Debug\Form_1etap.exe
+C:\Users\Админ\Dropbox\SelectAccum.v1.1\Form_1etap\obj\Debug\Form_1etap.pdb
+C:\Users\Админ\Dropbox\SelectAccum.v1.2\Form_1etap\bin\Debug\Form_1etap.exe.config
+C:\Users\Админ\Dropbox\SelectAccum.v1.2\Form_1etap\obj\Debug\SelectAccum.v1.1.csproj.ResolveComReference.cache
+C:\Users\Админ\Dropbox\SelectAccum.v1.2\Form_1etap\obj\Debug\Form_1etap.exe
+C:\Users\Админ\Dropbox\SelectAccum.v1.2\Form_1etap\obj\Debug\Form_1etap.pdb
